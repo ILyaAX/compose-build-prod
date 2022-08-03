@@ -6,3 +6,12 @@ The application is launched in the productions service. The product image must b
 ```
 git clone https://github.com/ILyaAX/compose-build-prod.git
 ```
+```
+cd compose-build-prod
+```
+```
+docker-compose up -d
+```
+
+
+Product image based on alpine:3.16 - 99.6MB
